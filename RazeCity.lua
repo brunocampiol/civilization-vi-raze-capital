@@ -1,8 +1,5 @@
 -- Author: https://github.com/brunocampiol
 
--- ===========================================================================
---	GLOBALS
--- ===========================================================================
 local g_pSelectedCity;
 
 -- Safely destroy the city with override capability
