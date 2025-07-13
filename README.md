@@ -9,7 +9,8 @@ Tested on July 13, 2025, running on Windows 11 with the Epic Games version.
 ## Installation
 
 1. Navigate to your Civilization VI Popups folder:
-    - Default location: `\Epic Games\SidMeiersCivilizationVI\Base\Assets\UI\Popups`
+    - Default location: `SidMeiersCivilizationVI\Base\Assets\UI\Popups`
+    - Default Epic location: `Epic Games\SidMeiersCivilizationVI\Base\Assets\UI\Popups`
 2. Locate the `RazeCity.lua` file
 3. Create a backup of the original `RazeCity.lua` file
 4. Replace the original file with the new [RazeCity.lua](RazeCity.lua) from this mod
