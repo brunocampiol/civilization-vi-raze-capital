@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod enables the ability to raze enemy capital cities in Civilization VI.
+This mod enables the ability to raze all cities including capital cities in Civilization VI.
 
 Tested on July 13, 2025, running on Windows 11 with the Epic Games version.
 
